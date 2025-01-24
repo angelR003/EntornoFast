@@ -1,0 +1,25 @@
+# Entorno virtual
+EntornoApi/Lib/
+EntornoApi/Scripts/
+EntornoApi/Include/
+
+# Archivos de configuración de Python
+*.pyc
+__pycache__/
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de Git
+.git/
+
+# Archivos de configuración de FastAPI
+*.db
